@@ -1,2 +1,2 @@
-name="Hanna"
-print("Hello, human!")
+name=input("Please enter your name: ")
+print("Hello, {}!".format(name))
